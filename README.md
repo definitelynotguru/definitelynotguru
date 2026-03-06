@@ -5,12 +5,12 @@
 <h1 align="center">Hello, I'm Aevum.</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Luau-Decent-007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-Learning-007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/PHP-Learning-777BB4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Luau-Decent/Learning-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-Decent/Learning-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/PHP-Decent/Learning-777BB4?style=flat-square" />
 </p>
 
-I'm not new to scripting - I'm comfortable with Luau from roblox projects - but I'm still exploring many other languages and concepts.  
+I'm not new to scripting - I'm comfortable with Luau from Roblox projects - but I'm still exploring many other languages and concepts.  
 Most of my work consists of personal tools and scripts I build for myself.  
 I'm particularly interested in using game-like simulations to better understand real-world systems and behaviors.
 
@@ -47,9 +47,8 @@ I'm particularly interested in using game-like simulations to better understand 
   </a>
 </p>
 
-<!-- Optional: simple stats (remove or keep) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=definitelynotguru&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
-</p>
-
+<!-- Comment out or replace -->
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Definitely&fontSize=45&fontAlignY=70" alt="header" />
+</p> -->
 Exploring, building, simulating.
