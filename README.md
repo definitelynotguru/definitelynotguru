@@ -14,11 +14,11 @@
 
 ### About Me
 
-- I build personal tools and scripts to solve problems and experiment with ideas
-- I use game-like simulations to understand how real-world systems work
+- I build personal tools and scripts to solve problems and experiment with ideas.
+- I use game-like simulations to understand how real-world systems work.
 - Currently diving deeper into JavaScript, Python, TypeScript, and C#
-- Most of my work is experimental and stays private -- what you see here is just the surface
-- Comfortable with Luau from Roblox projects, branching out to other languages
+- Most of my work is experimental and stays private -- what you see here is just the surface.
+- Comfortable with Luau from Roblox projects, branching out to other languages.
 
 ---
 
