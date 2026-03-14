@@ -12,17 +12,17 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
-- 🧪 I build personal tools and scripts to solve problems and experiment with ideas
-- 🎮 I use game-like simulations to understand how real-world systems work
-- 🌱 Currently diving deeper into JavaScript, Python, TypeScript, and C#
-- 🔧 Most of my work is experimental and stays private -- what you see here is just the surface
-- 💡 Comfortable with Luau from Roblox projects, branching out to other languages
+- I build personal tools and scripts to solve problems and experiment with ideas
+- I use game-like simulations to understand how real-world systems work
+- Currently diving deeper into JavaScript, Python, TypeScript, and C#
+- Most of my work is experimental and stays private -- what you see here is just the surface
+- Comfortable with Luau from Roblox projects, branching out to other languages
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=definitelynotguru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 📫 Contact
+### Contact
 
 <p align="center">
   <a href="https://discord.com/users/definitelynotguru">
