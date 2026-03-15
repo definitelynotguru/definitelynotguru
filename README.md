@@ -38,12 +38,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=definitelynotguru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=definitelynotguru&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=definitelynotguru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=3600" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=definitelynotguru&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=3600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=definitelynotguru&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=definitelynotguru&theme=tokyonight&cache_seconds=7200" alt="streak stats" />
 </p>
 
 ---
