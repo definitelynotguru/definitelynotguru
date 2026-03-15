@@ -4,11 +4,11 @@
 </p>
 
 <!-- Typing Animation -->
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Building+simulations+that+model+reality;Exploring+systems+through+game+mechanics;Constantly+learning+new+languages+%26+tools;Turning+personal+problems+into+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Building+simulations+that+model+reality;Exploring+systems+through+game+mechanics;Constantly+learning+new+languages+%26+tools;Turning+personal+problems+into+code" alt="Typing SVG" width="600" />
   </a>
-</p>
+</div>
 
 ---
 
