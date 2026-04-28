@@ -1,66 +1,58 @@
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aevum&fontSize=70&fontAlignY=45&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:141E30,50:243B55,100:7B2CBF&text=Aevum&fontColor=ffffff&fontSize=64&animation=fadeIn&fontAlignY=50" alt="Aevum" />
 </p>
 
-<!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Building+simulations+that+model+reality;Exploring+systems+through+game+mechanics;Constantly+learning+new+languages+%26+tools;Turning+personal+problems+into+code" alt="Typing SVG" width="600" />
-  </a>
+  <sub>systems, simulations, scripting, and the occasional weird idea that becomes code.</sub>
 </div>
 
----
+<br />
 
-### About Me
+```txt
+currently   building small tools, experiments, and simulation-driven projects
+focus       JavaScript, TypeScript, Python, Luau, and systems thinking
+style       private-first, prototype-heavy, learn-by-making
+```
 
-- I build personal tools and scripts to solve problems and experiment with ideas
-- I use game-like simulations to understand how real-world systems work
-- Currently diving deeper into JavaScript, Python, TypeScript, and C#
-- Most of my work is experimental and stays private -- what you see here is just the surface
-- Comfortable with Luau from Roblox projects, branching out to other languages
+## About
 
----
+I like turning vague ideas into working prototypes. A lot of what I make starts as a personal problem, a Roblox experiment, a simulation concept, or a small script that grows into something useful.
 
-### Tech Stack
+Most of my work is private or experimental, so this profile is less of a trophy wall and more of a quiet snapshot of what I enjoy building.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
-
----
-
-### GitHub Stats
+## Toolbox
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=definitelynotguru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=3600" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=definitelynotguru&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=3600" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,robloxstudio,git,github,vscode&theme=dark" alt="JavaScript, TypeScript, Python, Roblox Studio, Git, GitHub, VS Code" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=definitelynotguru&theme=tokyonight&cache_seconds=7200" alt="streak stats" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Luau" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</div>
 
----
+## What I tend to build
 
-### Contact
+```txt
+01  simulation systems that make complicated ideas easier to reason about
+02  personal scripts and tools that remove annoying repetitive work
+03  game mechanics and Roblox/Luau experiments
+04  small backend or automation ideas when curiosity wins
+```
+
+## Elsewhere
 
 <p align="center">
   <a href="https://discord.com/users/definitelynotguru">
-    <img src="https://img.shields.io/badge/Discord-definitelynotguru-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-definitelynotguru-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:despitemeguru@gmail.com">
-    <img src="https://img.shields.io/badge/Email-despitemeguru@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-despitemeguru@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
+  <sub>made with too many half-finished ideas and just enough stubbornness.</sub>
 </p>
