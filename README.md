@@ -12,29 +12,27 @@
 
 ---
 
-## Stack
+## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,node,express,react,next,vite,git,docker,postgres,mongodb,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,robloxstudio,git,github,vscode&theme=dark" alt="JavaScript, TypeScript, Python, Roblox Studio, Git, GitHub, VS Code" />
 </p>
 
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Luau](https://img.shields.io/badge/-Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Luau" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </div>
 
 ---
 
 ## Approach
 
-```
-01  ship fast, iterate faster
-02  architecture > cleverness
-03  build for the problem you actually have
+```txt
+01  build tools that solve my own problems first
+02  ship fast, iterate faster
+03  keep what works, kill what doesn't
 ```
 
 ---
@@ -43,9 +41,9 @@
 
 <p align="center">
   <a href="https://discord.com/users/definitelynotguru">
-    <img src="https://img.shields.io/badge/Discord-definitelynotguru-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-definitelynotguru-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:despitemeguru@gmail.com">
-    <img src="https://img.shields.io/badge/Email-despitemeguru@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-despitemeguru@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
