@@ -1,48 +1,54 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:141E30,50:243B55,100:7B2CBF&text=Aevum&fontColor=ffffff&fontSize=64&animation=fadeIn&fontAlignY=50" alt="Aevum" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:141E30,50:243B55,100:7B2CBF&text=Parth&fontColor=ffffff&fontSize=64&animation=fadeIn&fontAlignY=50" alt="Parth" />
 </p>
 
 <div align="center">
-  <sub>systems, simulations, scripting, and the occasional weird idea that becomes code.</sub>
+
+systems · simulations · architecture · shipping code that matters
+
 </div>
 
-<br />
+---
 
-```txt
-currently   building small tools, experiments, and simulation-driven projects
-focus       JavaScript, TypeScript, Python, Luau, and systems thinking
-style       private-first, prototype-heavy, learn-by-making
-```
+## Current Work
 
-## About
+| Project | Description |
+|---------|-------------|
+| **Recall** | Personal knowledge base with structure. Remembers context, not just text. |
+| **ModelRouter** | Intelligent routing layer for LLM workloads. |
 
-I like turning vague ideas into working prototypes. A lot of what I make starts as a personal problem, a Roblox experiment, a simulation concept, or a small script that grows into something useful.
+---
 
-Most of my work is private or experimental, so this profile is less of a trophy wall and more of a quiet snapshot of what I enjoy building.
-
-## Toolbox
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,robloxstudio,git,github,vscode&theme=dark" alt="JavaScript, TypeScript, Python, Roblox Studio, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,nextjs,vite,git,github,docker,postgres,mongodb,redis,aws,linux&theme=dark" alt="Tech Stack" />
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Luau" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
 </div>
 
-## What I tend to build
+---
 
-```txt
-01  simulation systems that make complicated ideas easier to reason about
-02  personal scripts and tools that remove annoying repetitive work
-03  game mechanics and Roblox/Luau experiments
-04  small backend or automation ideas when curiosity wins
+## Approach
+
+```
+01  ship working software over perfect architecture
+02  build systems that scale without becoming fragile
+03  automate the boring parts, focus on what matters
+04  learn by shipping, not by planning forever
 ```
 
-## Elsewhere
+---
+
+## Connect
 
 <p align="center">
   <a href="https://discord.com/users/definitelynotguru">
@@ -53,6 +59,10 @@ Most of my work is private or experimental, so this profile is less of a trophy 
   </a>
 </p>
 
-<p align="center">
-  <sub>made with too many half-finished ideas and just enough stubbornness.</sub>
-</p>
+<div align="center">
+
+---
+
+<sub>building things that outlast the hype</sub>
+
+</div>
