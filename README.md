@@ -1,56 +1,34 @@
 # Parth
 
-<div align="center">
-  <sub>systems, simulations, scripting, and the occasional weird idea that becomes code.</sub>
-</div>
-
-<br />
+systems, simulations, scripting, and the occasional weird idea that becomes code.
 
 ```txt
-currently   working on Recall and ModelRouter
-focus       JavaScript, TypeScript, Python, Luau, and systems thinking
+currently   Recall, ModelRouter, gungnir
+languages   TypeScript, Python, Luau
 style       private-first, prototype-heavy, learn-by-making
 ```
 
-## Toolbox
+<table>
+  <tr>
+    <td valign="top" width="200"><a href="https://github.com/definitelynotguru/Recall">Recall</a></td>
+    <td>Notes with reminders. I write in the browser. Android is what actually pings me.</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/definitelynotguru/ModelRouter">ModelRouter</a></td>
+    <td>Picks a coding-agent model from score and cost, then evals the choice offline.</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/definitelynotguru/gungnir">gungnir</a></td>
+    <td>Markdown memory for agents, kept on disk. Every fact carries provenance. Nothing gets silently overwritten.</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/definitelynotguru/factory-autobyok">factory-autobyok</a></td>
+    <td>A page that builds Factory Droid <code>settings.json</code>. <a href="https://definitelynotguru.github.io/factory-autobyok/">Open it.</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/definitelynotguru/IAMD-Simulation---Integrated-Air-Missile-Defense">IAMD</a></td>
+    <td>Air and missile defense in one HTML file. Proportional navigation, Kalman tracking, radar that can miss.</td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,robloxstudio,git,github,vscode&theme=dark" alt="JavaScript, TypeScript, Python, Roblox Studio, Git, GitHub, VS Code" />
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Luau" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</div>
-
-## What I tend to build
-
-```txt
-01  simulation systems that make complicated ideas easier to reason about
-02  personal scripts and tools that remove annoying repetitive work
-03  game mechanics and Roblox/Luau experiments
-04  small backend or automation ideas when curiosity wins
-```
-
-## Current Projects
-
-**[Recall](https://github.com/definitelynotguru/Recall)** — Personal knowledge base that remembers context, not just text.
-
-**[ModelRouter](https://github.com/definitelynotguru/ModelRouter)** — Intelligent routing layer for AI models.
-
-## Elsewhere
-
-<p align="center">
-  <a href="https://discord.com/users/definitelynotguru">
-    <img src="https://img.shields.io/badge/Discord-definitelynotguru-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:despitemeguru@gmail.com">
-    <img src="https://img.shields.io/badge/Email-despitemeguru@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>made with too many half-finished ideas and just enough stubbornness.</sub>
-</p>
+[discord](https://discord.com/users/definitelynotguru) · [email](mailto:despitemeguru@gmail.com) · [x](https://x.com/TotallyNotParth)
