@@ -23,11 +23,18 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </div>
 
-```txt
-currently   Recall, ModelRouter, gungnir
-languages   TypeScript, Python, Luau
-style       private-first, prototype-heavy, learn-by-making
-```
+<br />
+
+<div align="center">
+  <p>
+    <i>currently</i><br />
+    Recall · ModelRouter · gungnir
+  </p>
+  <p>
+    <i>style</i><br />
+    private-first · prototype-heavy · learn-by-making
+  </p>
+</div>
 
 [Recall](https://github.com/definitelynotguru/Recall) - Notes with reminders. I write in the browser. Android is what actually pings me.
 
