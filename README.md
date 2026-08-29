@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.jpg" alt="Parth" width="100%" />
+  <img src="assets/header.gif" alt="Parth" width="100%" />
 </div>
 
 <br />
@@ -29,20 +29,13 @@ languages   TypeScript, Python, Luau
 style       private-first, prototype-heavy, learn-by-making
 ```
 
-<div align="center">
-  <a href="https://github.com/definitelynotguru/Recall">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=definitelynotguru&repo=Recall&hide_border=true&bg_color=0C0D11&title_color=E8E4DC&text_color=9A9488&icon_color=9A8BB0" alt="Recall" />
-  </a>
-  <a href="https://github.com/definitelynotguru/ModelRouter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=definitelynotguru&repo=ModelRouter&hide_border=true&bg_color=0C0D11&title_color=E8E4DC&text_color=9A9488&icon_color=9A8BB0" alt="ModelRouter" />
-  </a>
-  <a href="https://github.com/definitelynotguru/gungnir">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=definitelynotguru&repo=gungnir&hide_border=true&bg_color=0C0D11&title_color=E8E4DC&text_color=9A9488&icon_color=9A8BB0" alt="gungnir" />
-  </a>
-  <a href="https://github.com/definitelynotguru/factory-autobyok">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=definitelynotguru&repo=factory-autobyok&hide_border=true&bg_color=0C0D11&title_color=E8E4DC&text_color=9A9488&icon_color=9A8BB0" alt="factory-autobyok" />
-  </a>
-</div>
+[Recall](https://github.com/definitelynotguru/Recall) - Notes with reminders. I write in the browser. Android is what actually pings me.
+
+[ModelRouter](https://github.com/definitelynotguru/ModelRouter) - Picks a coding-agent model from score and cost, then evals the choice offline.
+
+[gungnir](https://github.com/definitelynotguru/gungnir) - Markdown memory for agents, kept on disk. Every fact says where it came from. Nothing gets silently overwritten.
+
+[factory-autobyok](https://github.com/definitelynotguru/factory-autobyok) - A page that builds Factory Droid `settings.json`.
 
 <br />
 
