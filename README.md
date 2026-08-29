@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.gif" alt="Parth" width="100%" />
+  <img src="assets/cover.gif" alt="Parth" width="100%" />
 </div>
 
 <br />
